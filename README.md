@@ -28,4 +28,4 @@ Este proyecto busca exponer las habilidades adquiridas como desarrolladora web, 
   
 ##  🌈 ¡Link de mi sitio Web! ⭐
 
-¡Gracias por leerme! Visualiza mi proyecto Web aquí 👉 [Websitie-ThecproProyect]
+¡Gracias por leerme! Visualiza mi proyecto Web aquí 👉 [Websitie-ThecproProyect](https://kitzyareyes.github.io/KitzyaReyes-websitie.io/)
